@@ -116,7 +116,9 @@ The project consists of two main units:
 ## 🎥 Project Demonstration Video
 
 📽️ **Watch the complete working demo here:**  
-👉 *[[Click Here](https://youtu.be/7BjSHVF1QDA)]*
+👉 *[Click Here](https://youtu.be/7BjSHVF1QDA)*
+
+Figma Link: [Click Here](https://www.figma.com/design/feEBxf5zE0kvkO5WWOrKDI/David-Putra-Presentation?node-id=406-7&t=f6Fo8opWjvfI0Ozm-1)
 
 ---
 
